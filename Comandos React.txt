@@ -1,0 +1,6 @@
+Criar um novo projeto:
+npx create-react-app "nome-do-projeto"
+
+Criar componentes:
+
+
